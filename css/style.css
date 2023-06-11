@@ -640,3 +640,11 @@ header {
         margin-top: 2rem;
     }
 }
+/*start editing 6-11-2023*/
+.Services_Box{
+    box-shadow: 2px 2px 4px gray;
+    width: 50%;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 4px;
+}
